@@ -14,7 +14,7 @@ public class polyexample {
         System.out.println(Obj.add(10.5f,10));
         System.out.println(Obj.add(10.5f,5,5));
         System.out.println(Obj.add("gorsey",50,2.0f));
-        System.out.println(Obj.add(10,20.00f));
+        System.out.println(Obj.add(10,20.0));
         System.out.println(Obj.add(3,3.0f));
 
 
